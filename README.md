@@ -27,6 +27,16 @@ Fields: id, question, options, answer
 Annotations: Difficulty levels and question types
 Categories: Comparison, Multiple-Choice, Evaluation, Outcome, Event, Context
 
+Difficulty Level splits:
+<img width="600" height="483" alt="image" src="https://github.com/user-attachments/assets/288666f9-b491-4749-9e6f-5cefb2f746b3" />
+Category Type splits:
+<img width="640" height="507" alt="image" src="https://github.com/user-attachments/assets/5683782b-4946-460a-9410-ebe572ccbd50" />
+Average Question token count:
+<img width="657" height="415" alt="image" src="https://github.com/user-attachments/assets/2e68936b-85d1-444d-b3d3-60d977c07843" />
+Number of questions taken from years 2020-2024:
+<img width="562" height="476" alt="image" src="https://github.com/user-attachments/assets/46b24129-2775-4df8-a759-0553c99ee867" />
+
+
 ## Essay Dataset
 Extended from multiple-choice with additional fields:
 
