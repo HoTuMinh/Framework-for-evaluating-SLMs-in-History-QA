@@ -20,7 +20,7 @@ Difficulty Classification: Questions categorized by cognitive demand (Knowledge,
 
 # Dataset Structure
 ## Multiple-Choice Dataset
-
+https://docs.google.com/spreadsheets/d/1lygPbnw8MHzjaD6WcCPwg-0wQFowtis_NexY_izUNJQ/edit?usp=sharing 
 Size: 560 unique questions
 Source: Official Vietnamese high school graduation exams (2020-2024)
 Fields: id, question, options, answer
