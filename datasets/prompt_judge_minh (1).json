@@ -1,0 +1,90 @@
+[
+    {
+        "name": "tính súc tích",
+        "description": "Tiêu chí xét về phong cách ngôn ngữ của câu trả lời. Câu trả lời có ngắn gọn và súc tích? Có chứa các câu thừa thãi?",
+        "scale": [
+            "Mức 1. Rất kém: Câu trả lời dài dòng, lặp câu, và chứa nhiều thông tin không liên quan. Điều này khiến người đọc khó nắm bắt được nội dung cốt lõi và làm giảm hiệu quả truyền đạt.",
+            "Mức 2. Kém: Câu trả lời còn nhiều câu, đoạn thừa, làm cho nội dung bị loãng. Các ý chính có thể bị lặp lại, khiến câu trả lời thiếu đi sự mạch lạc và súc tích.",
+            "Mức 3. Trung bình: Câu trả lời tương đối ngắn gọn nhưng vẫn có thể tinh giản hơn. Một vài ý tưởng hoặc chi tiết có thể được trình bày một cách ngắn hơn mà không làm mất đi ý nghĩa.",
+            "Mức 4. Tốt: Câu trả lời ngắn gọn và tập trung vào vấn đề. Hầu như không có thông tin thừa, các ý được trình bày một cách cô đọng và rõ ràng.",
+            "Mức 5. Rất tốt: Câu trả lời cực kỳ súc tích, đi thẳng vào vấn đề một cách trực tiếp. Mỗi câu chữ đều có giá trị, không có bất kỳ từ ngữ hay ý tưởng nào thừa. Nội dung được trình bày với sự cô đọng cao nhất, giúp người đọc nắm bắt thông tin nhanh chóng và hiệu quả."
+        ]
+    },
+    {
+        "name": "tính dễ hiểu",
+        "description": "Tiêu chí xét về phong cách ngôn ngữ của câu trả lời. Câu trả lời có được trình bày sử dụng các từ ngữ mang tính học thuật?",
+        "scale": [
+            "Mức 1. Rất kém: Câu trả lời có cấu trúc lộn xộn, sử dụng từ ngữ không chính xác hoặc quá phức tạp, khiến người đọc rất khó hiểu. Các ý chính không được sắp xếp logic, gây hoang mang cho người đọc.",
+            "Mức 2. Kém: Cấu trúc bài viết thiếu mạch lạc, có nhiều câu văn lủng củng và dùng từ không phù hợp. Mặc dù có thể nắm bắt được một phần ý tưởng, người đọc vẫn gặp khó khăn khi theo dõi lập luận.",
+            "Mức 3. Trung bình: Câu trả lời có cấu trúc tương đối rõ ràng và sử dụng ngôn ngữ phù hợp. Tuy nhiên, vẫn có thể có một vài chỗ diễn đạt chưa trôi chảy hoặc dùng từ chưa chuẩn xác hoàn toàn.",
+            "Mục 4. Tốt: Câu trả lời được viết rõ ràng, có cấu trúc tốt và sử dụng ngôn ngữ học thuật một cách phù hợp. Các thuật ngữ lịch sử được dùng đúng cách, giúp người đọc dễ dàng tiếp thu kiến thức.",
+            "Mức 5. Rất tốt: Câu trả lời được viết rất tốt, có cấu trúc chặt chẽ và sử dụng ngôn ngữ chính xác, chuyên nghiệp. Nội dung được trình bày một cách trôi chảy, khoa học và dễ đọc, thể hiện sự am hiểu sâu sắc và khả năng diễn đạt xuất sắc."
+        ]
+    },
+    {
+        "name": "tính chặt chẽ",
+        "description": "Tiêu chí xét về cấu trúc của câu trả lời. Các ý trong câu trả lời có liên kết chặt chẽ với nhau?",
+        "scale": [
+            "Mức 1. Rất kém: Các ý tưởng trong câu trả lời rời rạc và thiếu sự liên kết. Cấu trúc câu trả lời lộn xộn, không theo một trình tự thời gian hoặc logic nào, khiến người đọc hoàn toàn không thể hiểu được mối quan hệ giữa các sự kiện.",
+            "Mức 2. Kém: Các ý tưởng không phải lúc nào cũng được liên kết một cách logic. Việc sắp xếp các sự kiện lịch sử thiếu hợp lý, tạo ra một bài viết khó hiểu và mâu thuẫn.",
+            "Mức 3. Trung bình: Các ý tưởng trong câu trả lời phần lớn được kết nối một cách hợp lý. Tuy nhiên, vẫn có những chỗ thiếu sự chuyển tiếp mượt mà hoặc thiếu luận điểm để làm rõ mối quan hệ giữa các sự kiện.",
+            "Mức 4. Tốt: Các ý tưởng được liên kết một cách hợp lý và chặt chẽ. Câu trả lời có cấu trúc rõ ràng, sử dụng các luận điểm một cách có hệ thống để tạo ra một câu chuyện lịch sử dễ hiểu.",
+            "Mức 5. Rất tốt: Các ý tưởng được liên kết một cách logic và chặt chẽ, tạo thành một mạch diễn giải liền mạch và thuyết phục. Câu trả lời có cấu trúc xuất sắc, thể hiện sự am hiểu sâu sắc về mối quan sự phát triển của các sự kiện."
+        ]
+    },
+    {
+        "name": "tính liên quan",
+        "description": "Tiêu chí xét về nội dung của câu trả lời. Thông tin được đưa ra trong câu trả lời có liên quan tới câu hỏi?",
+        "scale": [
+            "Mức 1. Rất kém: Nội dung câu trả lời hoàn toàn không liên quan đến câu hỏi. Câu trả lời có thể đi lạc sang một giai đoạn lịch sử khác, một sự kiện không có liên hệ, hoặc chỉ trình bày những thông tin chung chung mà không giải quyết được vấn đề chính.",
+            "Mức 2. Kém: Câu trả lời có một vài thông tin liên quan, nhưng phần lớn nội dung không tập trung vào trọng tâm câu hỏi. Nội dung rời rạc, thiếu sự kết nối logic, hoặc sử dụng các chi tiết lịch sử không chính xác, gây hiểu lầm.",
+            "Mức 3. Trung bình: Câu trả lời có liên quan đến câu hỏi, nhưng mức độ liên kết chưa chặt chẽ. Có thể có những đoạn thông tin thừa, không cần thiết, hoặc thiếu đi các luận điểm then chốt để làm sáng tỏ vấn đề.",
+            "Mức 4. Tốt: Nội dung câu trả lời liên quan chặt chẽ đến câu hỏi, giải quyết được các khía cạnh chính. Thông tin được đưa ra chính xác và có sự sắp xếp logic, chỉ mắc một vài lỗi nhỏ không đáng kể về tính liên kết.",
+            "Mức 5. Rất tốt: Nội dung câu trả lời hoàn toàn liên quan, trực tiếp giải quyết được trọng tâm câu hỏi. Các sự kiện, nhân vật và bối cảnh lịch sử Việt Nam được sử dụng chính xác, có hệ thống và đầy đủ, thể hiện sự hiểu biết sâu sắc về chủ đề."
+        ]
+    },
+    {
+        "name": "tính đúng đắn",
+        "description": "Tiêu chí xét về nội dung của câu trả lời. Thông tin được đưa ra trong câu lời có chính xác (dựa trên context)?",
+        "scale": [
+            "Mức 1. Rất kém: Câu trả lời chứa đựng nhiều lỗi sai nghiêm trọng về sự kiện, thời gian, nhân vật hoặc bản chất của vấn đề lịch sử. Thông tin đưa ra sai lệch hoàn toàn so với kiến thức lịch sử đã được kiểm chứng.",
+            "Mức 2. Kém: Câu trả lời có chứa một số lỗi sai cơ bản về mặt kiến thức, mặc dù một phần nội dung có thể đúng. Các lỗi này làm ảnh hưởng đáng kể đến tính chính xác và sự hiểu biết tổng thể về vấn đề.",
+            "Mức 3. Trung bình: Câu trả lời đúng phần lớn các thông tin quan trọng nhưng vẫn mắc một vài lỗi nhỏ, ví dụ như sai sót về số liệu, thời gian cụ thể hoặc chi tiết phụ. Những lỗi này không làm thay đổi bản chất của vấn đề lịch sử.",
+            "Mức 4. Tốt: Câu trả lời thể hiện sự chính xác cao về kiến thức lịch sử. Nội dung đáng tin cậy và không có lỗi sai nghiêm trọng. Chỉ có một vài sai sót rất nhỏ, không đáng kể và dễ dàng bỏ qua.",
+            "Mức 5. Rất tốt: Câu trả lời hoàn toàn chính xác về mặt kiến thức, không có bất kỳ lỗi sai nào về sự kiện, thời gian, nhân vật hay số liệu. Nội dung được trình bày một cách chuẩn xác, thể hiện sự am hiểu vững vàng về lịch sử."
+        ]
+    },
+    {
+        "name": "tính đầy đủ",
+        "description": "Tiêu chí xét về nội dung của câu trả lời. Câu trả lời giải quyết đầy đủ các yêu cầu của câu hỏi không?",
+        "scale": [
+            "Mức 1. Rất kém: Câu trả lời chỉ đề cập đến một phần rất nhỏ của câu hỏi hoặc bỏ qua hoàn toàn các yếu tố quan trọng. Các luận điểm đưa ra thiếu hụt nghiêm trọng, không thể giải quyết được vấn đề một cách toàn diện.",
+            "Mức 2. Kém: Câu trả lời thiếu nhiều thông tin cốt lõi, chỉ đề cập đến một số khía cạnh một cách sơ sài. Phần lớn các yêu cầu của câu hỏi không được đáp ứng, dẫn đến một cái nhìn phiến diện về vấn đề lịch sử.",
+            "Mức 3. Trung bình: Câu trả lời đã giải quyết được các yêu cầu chính của câu hỏi, nhưng vẫn còn thiếu một vài chi tiết hoặc khía cạnh quan trọng. Nội dung chưa thực sự sâu sắc và đầy đủ.",
+            "Mức 4. Tốt: Câu trả lời đáp ứng đầy đủ các yêu cầu của câu hỏi, cung cấp đủ thông tin và luận điểm để làm sáng tỏ vấn đề. Chỉ có một vài thiếu sót nhỏ không đáng kể.",
+            "Mức 5. Rất tốt: Câu trả lời giải quyết một cách hoàn chỉnh và toàn diện tất cả các khía cạnh của câu hỏi. Mọi yêu cầu được đáp ứng một cách xuất sắc, cung cấp đầy đủ thông tin, luận điểm và bằng chứng để làm sáng tỏ vấn đề một cách sâu sắc."
+        ]
+    },
+    {
+        "name": "Cấu trúc câu trả lời",
+        "description": "Tiêu chí xét về nội dung của câu trả lời. Câu trả lời này có tuân thủ cấu trúc trả lời câu hỏi tự luận (bao gồm 2 phần đặt vấn đề và giải quyết các vấn đề / giải thích các luận điểm) của môn lịch sử không? Các thông tin và luận điểm được sử dụng có đầy đủ để đưa đến kết luận không?",
+        "scale": [
+            "Mức 1. Rất kém: Câu trả lời không có cấu trúc rõ ràng. Các ý được trình bày một cách ngẫu nhiên, không có phần mở bài hay kết luận. Các luận điểm không được sắp xếp theo một trình tự logic, gây khó khăn cho việc theo dõi",
+            "Mức 2. Kém: Câu trả lời có cố gắng xây dựng cấu trúc nhưng thiếu chặt chẽ. Phần đặt vấn đề và giải quyết vấn đề không rõ ràng, các luận điểm chính không được trình bày một cách hệ thống.",
+            "Mức 3. Trung bình: Câu trả lời có cấu trúc cơ bản, bao gồm phần mở đầu và giải quyết vấn đề. Các luận điểm được trình bày theo một trình tự nhất định, nhưng vẫn còn thiếu sự liên kết chặt chẽ hoặc sự sắp xếp khoa học.",
+            "Mức 4. Tốt: Câu trả lời có cấu trúc rõ ràng và hợp lý, bao gồm đầy đủ hai phần: đặt vấn đề và giải quyết vấn đề. Các luận điểm được sắp xếp logic và trình bày một cách có hệ thống, giúp câu trả lời dễ theo dõi",
+            "Mức 5. Rất tốt: Câu trả lời có cấu trúc tốt, thể hiện sự am hiểu về kiến thức lịch sử cũng như cách trình bày ý tưởng. Phần mở đầu trình bày vấn đề một cách thuyết phục, các luận điểm được sắp xếp chặt chẽ, và kết luận tổng hợp một cách rõ ràng, tạo nên một bài viết mạch lạc và thuyết phục."
+        ]
+    },
+    {
+        "name": "Định dạng câu trả lời",
+        "description": "Tiêu chí này xét về hình thức và định dạng của câu trả lời. Nó đánh giá câu trả lời có được viết hoàn toàn bằng tiếng Việt không, có tuân thủ các quy tắc trình bày văn bản chuẩn không, và có chứa các ký tự lạ, ngôn ngữ khác, hoặc các yếu tố không phù hợp (ví dụ: emoji, code, các thẻ markdown không cần thiết) với một bài luận môn Lịch sử hay không.",
+        "scale": [
+            "Mức 1. Rất kém: Câu trả lời được viết hoàn toàn hoặc phần lớn bằng ngôn ngữ khác ngoài tiếng Việt. Hoặc câu trả lời chứa đầy các ký tự không hợp lệ, mã nguồn, hoặc định dạng bị lỗi nặng, khiến nó hoàn toàn không thể đọc được như một văn bản tự luận thông thường.",
+            "Mức 2. Kém: Câu trả lời chứa nhiều đoạn văn bản bằng ngôn ngữ khác hoặc có nhiều ký tự không phù hợp (emoji, thẻ markdown hỏng). Định dạng cẩu thả, thiếu chuyên nghiệp, gây khó khăn đáng kể cho người đọc.",
+            "Mức 3. Trung bình: Câu trả lời bằng tiếng Việt nhưng có một số lỗi định dạng rõ ràng, chẳng hạn như lạm dụng viết hoa, thiếu dấu câu, hoặc có chứa một vài từ/cụm từ bằng ngôn ngữ khác không cần thiết. Các lỗi này làm giảm tính chuyên nghiệp của câu trả lời.",
+            "Mức 4. Tốt: Câu trả lời chủ yếu bằng tiếng Việt và có định dạng tốt. Có thể có một vài lỗi nhỏ về dấu câu hoặc định dạng nhưng không ảnh hưởng đến khả năng đọc hiểu tổng thể. Không có ký tự hay ngôn ngữ lạ.",
+            "Mức 5. Rất tốt: Câu trả lời được trình bày hoàn toàn bằng tiếng Việt, tuân thủ nghiêm ngặt các quy tắc định dạng. Văn bản sạch sẽ, không chứa bất kỳ ký tự lạ, ngôn ngữ khác, hay yếu tố không phù hợp nào. Dấu câu, viết hoa được sử dụng chính xác, giúp bài viết chuyên nghiệp và dễ đọc."
+        ]
+    }
+]
